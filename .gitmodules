@@ -1,0 +1,3 @@
+[submodule "MTest3"]
+    path = MTest3
+    url = https://github.com/DerDu/MTest3.git
